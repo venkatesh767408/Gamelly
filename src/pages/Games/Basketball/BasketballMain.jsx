@@ -1,6 +1,6 @@
 
 import Basketball from "./Basketball"
-import BasketballFaqs from "./BasketallballFaqs"
+import BasketballFaqs from "./BasketballFaqs"
 import Working from "./Working"
 
 
